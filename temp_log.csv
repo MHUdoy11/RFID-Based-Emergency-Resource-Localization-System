@@ -1,0 +1,7 @@
+09:07:15,ENTRY,ID-1,Zone_A,Admitted,-
+09:07:30,ALERT,ID-1,Zone A/B,Sudden Collapse,Pending
+09:09:25,RESOLVED,ID-1,-,Stabilized,N-3
+09:10:15,ENTRY,ID-2,Zone_A,Admitted,-
+09:12:40,ALERT,ID-2,Zone A/B,Sudden Collapse,Pending
+09:14:25,RESOLVED,ID-2,-,Stabilized,N-3
+09:15:30,ALERT,ID-2,Zone A/B,Violent Motion,Pending
